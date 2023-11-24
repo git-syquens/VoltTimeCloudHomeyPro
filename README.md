@@ -10,6 +10,7 @@ The first script that I publish now is intended on getting information on;
 >>> Site
 >>>> Charger
 >>>>> Connector
+
 Volt Time organizes the resources in this hierarchical way
  I plan to extend this first script further in a next release so that you may specify a specific team,
  site, charger or connector. For now it just searches and lists the first occurence of every hierarchical object.

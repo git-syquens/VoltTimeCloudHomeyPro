@@ -22,3 +22,25 @@ Volt Time organizes the resources in this hierarchical way
  You can then even extend that courtesy to multiple cars/persons - even if you're not there.
  This might come in handy when you have a charger that is easily accessible by road.
  
+The Script exposes the following tags - and when you run it directly under homey script - it shows the tag content in the output.
+
+Tag VoltTimeUserID
+Tag VoltTimeName
+Tag VolTimeAccount
+Tag VoltTimeTeamID
+Tag VoltTimeTeamType
+Tag VoltTimeTeamContact
+Tag VoltTimeSiteID
+Tag VoltTimeSiteName
+Tag VoltTimeSiteStreet
+Tag VoltTimeSitePostalCode
+Tag VoltTimeSiteHouseNumber
+Tag VoltTimeSiteHouseNumberAddition
+Tag VoltTimeSiteCity
+Tag VoltTimeSiteCountry
+Tag VoltTimeSitePhase
+Tag VoltTimeSiteMainFuseAmperage
+Tag VoltTimeSiteLoadManagement
+Tag VoltTimeSiteNetType
+Tag VoltTimeChargerID
+Tag VoltTimeChargerIdentity
